@@ -11,13 +11,18 @@ I am actively seeking an AI-Focused IT Internship where I can apply my "learning
 Programming: Proficient in Python for system development and data science tasks.
 -> Artificial Intelligence:
 Experience in training Deep Learning models for image classification (specifically dermatological data).
+
+-> Project Section (Specific for Skin Disease)
+
+1 Project Title: Skin Disease Detection using AI & Image Processing
+Core Architecture: Implemented a custom CNN for initial classification tasks.  
+Advanced Models: Evaluated performance using ResNet and VGG16 to achieve higher accuracy in detecting subtle skin textures.  
+Mobile Integration: Integrated MobileNet to explore the possibility of a lightweight solution for mobile-based diagnosis (aligns with the "web & mobile" requirement in the ad).  
+Current Focus: Comparing these 4 models to find the best balance between speed and accuracy.
 Skilled in Dataset Augmentation (handling 40,000+ images) and model optimization.
 Data Visualization: Creating animated simulations and statistical models using Matplotlib.
-System Engineering: Developed Web Crawlers and modeled system flows using Petri Nets.
--> Featured Projects
-1. Dermatological Image Classification Model
-Developed and trained a model using an augmented dataset of 40,000 images.
-Focused on batch size optimization and high-accuracy training strategies.
+System Engineering: Developed Web Crawlers and modeled system flows using Petri Nets
+
 2. Practical Web Crawler
 Built a functional web crawler to demonstrate practical software engineering and data extraction skills.
 3. Probability & Statistical Simulation
